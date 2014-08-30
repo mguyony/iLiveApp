@@ -9,7 +9,7 @@
     <!-- Define servlets that are included in the iLive application -->
     <servlet>
       <servlet-name>home</servlet-name>
-      <servlet-class>iLive.web.HomeServlet</servlet-class>
+      <servlet-class>iLiveApp.web.HomeServlet</servlet-class>
    </servlet>
     <servlet-mapping>
       <servlet-name>home</servlet-name>
